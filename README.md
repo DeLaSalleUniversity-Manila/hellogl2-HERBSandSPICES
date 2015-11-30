@@ -22,7 +22,9 @@ Getting Started
 
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![screenshot](device-2015-11-30-233459.png)
+![screenshot](device-2015-11-30-233507.png)
+![screenshot](device-2015-11-30-233522.png)
 
 Support
 -------
